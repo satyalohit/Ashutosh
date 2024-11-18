@@ -23,7 +23,7 @@ cd Ashutosh
 go build
 
 
-## Usage
+## 💡 Usage
 
 Run the program with your OpenAI API key:
 
