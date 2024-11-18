@@ -74,7 +74,7 @@ Respond only with valid JSON in the following structure:
 	resp, err := a.client.CreateChatCompletion(
 		a.ctx,
 		openai.ChatCompletionRequest{
-			Model: openai.GPT4Turbo,
+			Model: openai.GPT4o,
 			Messages: []openai.ChatCompletionMessage{
 				{
 					Role:    openai.ChatMessageRoleSystem,
