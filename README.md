@@ -18,8 +18,8 @@ An intelligent CLI tool that generates complete project scaffolding using OpenAI
 ## Installation
 
 bash
-git clone https://github.com/yourusername/project-name
-cd project-name
+git clone https://github.com/satyalohit/Ashutosh
+cd Ashutosh
 go build
 
 
